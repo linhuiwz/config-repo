@@ -19,5 +19,5 @@ ribbon:
   ReadTimeout: 5000
   SocketTimeout: 5000
 redis:
-  host: 10.16.1.180
+  host: 192.168.0.103
   port: 6379
