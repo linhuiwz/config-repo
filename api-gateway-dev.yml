@@ -5,7 +5,7 @@ zuul:
   # /myProduct/product/list -> /product/product/list
     aaaaaa:
       path: /myProduct/**
-      serviceId: product
+      serviceId: myproduct
       sensitiveHeaders:
   #简洁写法
 #    product: /myProduct/**
