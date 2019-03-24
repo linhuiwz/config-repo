@@ -22,7 +22,7 @@ spring:
           destination: zhibo #目标主题
         shop_output:
           destination: zhibo
-      default-binder: kafka #默认的binder是kafka
+      #default-binder: kafka #默认的binder是kafka
   kafka:
     bootstrap-servers: 127.0.0.1:9092 #kafka服务地址
     consumer:
